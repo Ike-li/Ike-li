@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Ike-li)
+<!-- ![](https://komarev.com/ghpvc/?username=Ike-li) -->
 
 
 ![](http://antzuhl.cn:4000/get/@Ike-li)
